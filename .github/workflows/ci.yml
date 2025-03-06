@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-  name: CI
+    name: CI
     # Specify which OS to run this workflow on
     runs-on: ubuntu-latest
 
